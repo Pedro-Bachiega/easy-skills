@@ -64,7 +64,7 @@ This file does NOT define:
 ## References
 
 This specialty should be used together with:
-- `README.md`
+- `SKILL.md`
 - `core/architecture.md`
 - `business/state.md`
 - `business/usecases.md`

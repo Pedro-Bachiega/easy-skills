@@ -4,10 +4,10 @@ Use the smallest relevant skill first, then add specialist cards only if the tas
 
 ## Routing
 
-- Codebase discovery, file location lookup, and risk triage -> `project-explorer/README.md`
-- Code review, PR feedback, regressions, and risk checks -> `code-review/README.md`
-- Native C++ implementation, DLLs, runtime hooks, and interop -> `cpp-dev/README.md`
-- Kotlin Multiplatform client work, shared logic, and Compose UI -> `kotlin-multiplatform-dev/README.md`
+- Codebase discovery, file location lookup, and risk triage -> `project-explorer/SKILL.md`
+- Code review, PR feedback, regressions, and risk checks -> `code-review/SKILL.md`
+- Native C++ implementation, DLLs, runtime hooks, and interop -> `cpp-dev/SKILL.md`
+- Kotlin Multiplatform client work, shared logic, and Compose UI -> `kotlin-multiplatform-dev/SKILL.md`
 - GitHub branch, PR, and merge flow -> `github/SKILL.md`
 
 ## Shared Rules
